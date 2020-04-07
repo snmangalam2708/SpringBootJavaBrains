@@ -11,7 +11,10 @@
 .mtj.tmp/
 
 .idea/
+<<<<<<< HEAD
 *.iml
+=======
+>>>>>>> 6811f349d46d49522c779827ac901f3ddf86c042
 
 # Package Files #
 *.jar
