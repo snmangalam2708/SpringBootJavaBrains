@@ -12,4 +12,4 @@ public class CourseApiApp{
         SpringApplication.run(CourseApiApp.class,args);
 
         }
-}
+        }
